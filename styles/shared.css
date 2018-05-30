@@ -1,0 +1,41 @@
+.logos img{
+    max-height: 100px;
+}
+
+header{
+    margin-top: 10px;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+.nav-wrapper{
+    background-color: #f8f9fa;
+    border-bottom: 2px solid;
+}
+
+footer{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #cccccc;
+    border-top: 2px solid;   
+}
+
+.fa-facebook:hover {
+    color: #3b5998;
+}
+
+.fa-instagram:hover {
+    color: #833ab4;
+}
+
+.fa-twitter:hover {
+    color: #1da1f2;
+}
+
+footer .contact h3{
+    font-weight: bold;
+    font-size: 18px;
+}

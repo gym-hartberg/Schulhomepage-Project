@@ -1,0 +1,42 @@
+#mainPageContent h1{
+    text-align: center;
+}
+
+#mainPageContent{
+    margin-top: 20px;
+}
+
+#mainPageContent #dates{
+    border-right: 2px solid #cccccc;
+}
+
+#dates .row{
+    margin-left: 20px;
+}
+
+#dates .date{
+    font-weight: bold;
+}
+
+footer .socialmedia i{
+    font-size: 30px;
+}
+
+#aboutus p{
+    text-align: justify;
+}
+
+#aboutus .iframewrapper{
+    text-align: center;
+}
+
+#aboutus{
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 10px;
+}
+
+#slide1{
+    height: 300px;
+    background-image: url("../images/slide one.jpg");
+    background-position:bottom;
+}
