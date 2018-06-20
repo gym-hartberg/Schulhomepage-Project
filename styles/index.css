@@ -2,21 +2,18 @@
     text-align: center;
 }
 
-#mainPageContent{
+#mainPageContent {
     margin-top: 20px;
 }
 
-#mainPageContent #dates{
-    border-right: 2px solid #cccccc;
+#mainPageContent #news{
+    border-right: 2px solid #cccc;
 }
 
 #dates .row{
     margin-left: 20px;
 }
 
-#dates .date{
-    font-weight: bold;
-}
 
 footer .socialmedia i{
     font-size: 30px;
