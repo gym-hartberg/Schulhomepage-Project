@@ -1,0 +1,14 @@
+.bold {
+    text-align:  left;
+    font-weight: bold;
+}
+
+.date {
+    text-align: left;
+}
+.name {
+    text-align: left;
+}
+.calender {
+    font-size: 30px;
+}
