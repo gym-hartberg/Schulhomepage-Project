@@ -40,3 +40,13 @@ footer .socialmedia i{
     background-image: url("../images/slide one.jpg");
     background-position:bottom;
 }
+
+.schwarzesBrett{
+    background: black;
+    border-radius: 10px;
+    color: white;
+}
+
+.schwarzesBrett h1{
+    text-align: left;
+}
