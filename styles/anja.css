@@ -85,21 +85,17 @@
     max-width: 160px; margin: 3px 3px 10px 3px;
 }
 
-/* .Schuelerfotos:hover{
-    filter: blur(0px) grayscale(0);
-} */
-
-/* @media only screen and (max-width: 788px) {
-    .dot{
-        text-align: center;
-    }
-} */
-
-
 @media (max-width: 33.9em) {
     
+    .img-box{
+        margin-left: auto!Important;
+        margin-right: auto!Important;
+    }
     .anzeige2, .anzeige{
         text-align: center;
+    }
+    .anzeige .dot {
+        padding: 2px 0 0 0;
     }
 }
 
@@ -146,9 +142,9 @@
 
 
 .Raumplan {
-    width: 100%;
-    max-width: 1000px;
-    text-align: center;
-    margin: auto;
+    /* width: 100%; */
+    /* max-width: 1000px; */
+    /* text-align: center;
+    margin: auto; */
     margin-top: 20px;
 }
